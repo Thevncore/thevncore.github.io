@@ -10,3 +10,4 @@ node_modules
 package.json
 commit.cmd
 push.cmd
+sync.cmd
